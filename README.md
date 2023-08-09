@@ -1,4 +1,2 @@
-# Primeiro
- Primeiro repositorio 
-
-ALteração feita pelo visual studio!
+# Primeiro Repositório
+Este repositorio foi criado para estudo de webdesign
